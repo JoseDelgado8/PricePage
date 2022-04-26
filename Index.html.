@@ -5,6 +5,8 @@
         <meta charset="utf-8">
         <title>HTML basics</title>
     </head>
-    <body>
+    <body> <h1> Price list of Subcritions </h1> 
+    <ul> A 1 month subcrition = 9.99 </ul>
+    <ul> A 2 month subcrition = 19.99 </ul>
     </body>
 </html>
