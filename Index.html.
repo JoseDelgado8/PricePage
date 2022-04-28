@@ -8,9 +8,7 @@
     <body> <h1> subscriptions </h1> 
     <div class="button"><h1 id="subs" class="box"> Subsriptions</h1> 
     <a id="normal" href="future file.html" class="button"> normal subscription</a>  
-    <a id="student" href="future file.html" class="button"> student subscription</a>
-    <a id="senior" href="future file.html" class="button"> senior subscription</a>
-    <a id="veteran" href="future file.html" class="button"> veteran subscription</a>
+    <a id="sinior" href="future file.html" class="button"> student subscription</a>
     </div>
     <h2> <strong> BEST DEAL!!!</strong> </h2>
           <br>
@@ -18,6 +16,5 @@
              <div id="best deal">
              <a id="bestdeal" href="futurefile.html" class="button">BEST DEAL</a>
              </div>
-    
     </body>
 </html>
